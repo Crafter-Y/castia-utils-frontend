@@ -6,7 +6,7 @@ export default function Login() {
     <>
       <Header />
       <div className="flex items-center justify-center">
-        <p>Hello World</p>
+        <p>Hello World 2</p>
       </div>
     </>
   )
