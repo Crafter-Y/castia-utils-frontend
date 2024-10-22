@@ -1,5 +1,13 @@
+import Header from 'components/Header'
 import React from 'react'
 
 export default function Login() {
-  return <div>Login</div>
+  return (
+    <>
+      <Header />
+      <div className="flex items-center justify-center">
+        <p>Hello World</p>
+      </div>
+    </>
+  )
 }
